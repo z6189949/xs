@@ -1,0 +1,65 @@
+﻿#sysName {
+    font-size: 30px;
+    background-color: blue;
+    color: #ffffff;
+    font-weight: 800;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+#sysEName {
+    color: #ffffff;
+    margin-top: -70px;
+    font-weight: 800;
+}
+
+.img_GongNen {
+    margin-top: 10px;
+}
+
+.bootDiv1 {
+    height: 5px;
+    background-color: blue;
+    margin-top: 5px;
+}
+
+.bootDiv2 {
+    height: 25px;
+    background-color: silver;
+    color: #ffffff;
+}
+
+body {
+    margin-top: 30px;
+}
+
+.bmxzP {
+    font-family: 宋体;
+    font-size: 20px;
+    line-height: 150%;
+    text-indent: 2em;
+}
+
+.bmxzBt {
+    font-family: 微软雅黑;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 200%;
+}
+
+#divInputTitle {
+    font-family: 微软雅黑;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.error {
+    color:red;
+}
+.imgfile {
+    width:170px;
+    height:200px;
+    border:2px;
+    border-style:solid;
+    color:red;
+    margin-left:25%;
+}
